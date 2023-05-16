@@ -17,14 +17,14 @@
   <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/your-repository.git
+<pre><code>git clone https://github.com/SejeelTauseef56/jest-testing.git
 </code></pre>
 
 <ol start="2">
   <li>Navigate to the project directory:</li>
 </ol>
 
-<pre><code>cd your-repository
+<pre><code>cd jest-testing
 </code></pre>
 
 <ol start="3">
