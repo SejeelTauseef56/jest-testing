@@ -6,7 +6,7 @@
 <h4>Prerequisites/h4>
 <ol>
   <li><a href="https://nodejs.org">Node.js</a> installed on your machine.</li>
-  <li><a href="https://jestjs.io/docs/getting-started"Jest installed globally (optional, if not already installed).</li>
+  <li><a href="https://jestjs.io/docs/getting-started">Jest</a> installed globally (optional, if not already installed).</li>
 </ol>
 
 
