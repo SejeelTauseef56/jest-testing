@@ -34,18 +34,3 @@
 <pre><code>npm install
 </code></pre>
 
-<h2>Usage</h2>
-
-<p>Describe how to use the project, how to run tests, or any specific instructions.</p>
-
-<h2>Contributing</h2>
-
-<p>Explain how others can contribute to your project, if applicable.</p>
-
-<h2>License</h2>
-
-<p>Specify the license for your project, if applicable.</p>
-
-<h2>Contact</h2>
-
-<p>Provide your contact information for users to reach out to you, if needed.</p>
