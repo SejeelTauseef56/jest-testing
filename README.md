@@ -34,3 +34,9 @@
 <pre><code>npm install
 </code></pre>
 
+<ol start="4">
+  <li>Run the test:</li>
+</ol>
+
+<pre><code>npm test
+</code></pre>
