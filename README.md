@@ -1,6 +1,6 @@
-<h1>Project Name</h1>
+<h1>Jest testing</h1>
 
-<p>Brief description of the project.</p>
+  <p>Shopping Cart Testing Using Jest</p>
 
 <h2>Prerequisites</h2>
 
